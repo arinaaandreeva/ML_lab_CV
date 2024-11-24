@@ -1,1 +1,1 @@
-# ML_lab_CV
+# ML lab Computer Vision
